@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<playlist>
+    <SongItem>
+        <name>Юморист</name>
+        <singer>FACE</singer>
+        <duration>143</duration>
+        <placeInChart>24</placeInChart>
+        <date>11 февраля 2019 года</date>
+        <place>Москва</place>
+    </SongItem>
+    <SongItem>
+        <name>Лабиринт</name>
+        <singer>FACE</singer>
+        <duration>169</duration>
+        <placeInChart>67</placeInChart>
+        <date>1 октября 2019 года</date>
+        <place>Москва</place>
+    </SongItem>
+    <SongItem>
+        <name>СПАСАТЕЛЬНЫЙ КРУГ</name>
+        <singer>FACE</singer>
+        <duration>153</duration>
+        <placeInChart>1000</placeInChart>
+        <date>1 февраля 2019 года</date>
+        <place>Москва</place>
+    </SongItem>
+    <SongItem>
+        <name>Мой Калашников</name>
+        <singer>FACE</singer>
+        <duration>148</duration>
+        <placeInChart>1000</placeInChart>
+        <date>1 февраля 2019 года</date>
+        <place>Москва</place>
+    </SongItem>
+    <SongItem>
+        <name>Рэйман</name>
+        <singer>FACE</singer>
+        <duration>143</duration>
+        <placeInChart>5</placeInChart>
+        <date>15 декабря 2020 года</date>
+        <place>Москва</place>
+    </SongItem>
+
+    <SongItem>
+        <name>В моих глазах</name>
+        <singer>Обстоятельства</singer>
+        <duration>180</duration>
+        <placeInChart>1000</placeInChart>
+        <date>20 сентября 2019 года</date>
+        <place>Москва</place>
+    </SongItem>
+
+    <SongItem>
+        <name>Дождь</name>
+        <singer>Екатерина Яшникова</singer>
+        <duration>186</duration>
+        <placeInChart>1000</placeInChart>
+        <date>27 ноября 2020 года</date>
+        <place>Москва</place>
+    </SongItem>
+
+</playlist>

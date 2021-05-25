@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Юморист",
+    "singer": "FACE",
+    "duration": 143,
+    "placeInChart": 24,
+    "date": "11 февраля 2019 года",
+    "place": "Москва"
+  },
+  {
+    "name": "Лабиринт",
+    "singer": "FACE",
+    "duration": 169,
+    "placeInChart": 67,
+    "date": "1 октября 2019 года",
+    "place": "Москва"
+  },
+  {
+    "name": "СПАСАТЕЛЬНЫЙ КРУГ",
+    "singer": "FACE",
+    "duration": 153,
+    "placeInChart": 1000,
+    "date": "1 февраля 2019 года",
+    "place": "Москва"
+  },
+  {
+    "name": "Мой Калашников",
+    "singer": "FACE",
+    "duration": 148,
+    "placeInChart": 1000,
+    "date": "1 февраля 2019 года",
+    "place": "Москва"
+  },
+  {
+    "name": "Рэйман",
+    "singer": "FACE",
+    "duration": 143,
+    "placeInChart": 5,
+    "date": "15 декабря 2020 года",
+    "place": "Москва"
+  },
+  {
+    "name": "В моих глазах",
+    "singer": "Обстоятельства",
+    "duration": 180,
+    "placeInChart": 1000,
+    "date": "20 сентября 2019 года",
+    "place": "Москва"
+  },
+  {
+    "name": "Дождь",
+    "singer": "Екатерина Яшникова",
+    "duration": 186,
+    "placeInChart": 1000,
+    "date": "27 ноября 2020 года",
+    "place": "Москва"
+  }
+]

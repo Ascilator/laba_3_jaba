@@ -1,0 +1,7 @@
+[ [ "com.company.song.Single", {
+  "songName" : "1",
+  "singer" : "2",
+  "duration" : 3,
+  "placeInChart" : 4,
+  "studio" : "5"
+} ] ]

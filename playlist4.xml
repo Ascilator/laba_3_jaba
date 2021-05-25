@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<songsList>
+    <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="live">
+        <duration>143</duration>
+        <placeInChart>24</placeInChart>
+        <singer>FACE</singer>
+        <songName>Юморист</songName>
+        <date>11 февраля 2019 года</date>
+        <place>Москва</place>
+    </list>
+    <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="live">
+        <duration>169</duration>
+        <placeInChart>67</placeInChart>
+        <singer>FACE</singer>
+        <songName>Лабиринт</songName>
+        <date>1 октября 2019 года</date>
+        <place>Москва</place>
+    </list>
+    <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="live">
+        <duration>153</duration>
+        <placeInChart>1000</placeInChart>
+        <singer>FACE</singer>
+        <songName>СПАСАТЕЛЬНЫЙ КРУГ</songName>
+        <date>1 февраля 2019 года</date>
+        <place>Москва</place>
+    </list>
+    <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="live">
+        <duration>148</duration>
+        <placeInChart>1000</placeInChart>
+        <singer>FACE</singer>
+        <songName>Мой Калашников</songName>
+        <date>1 февраля 2019 года</date>
+        <place>Москва</place>
+    </list>
+    <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="live">
+        <duration>143</duration>
+        <placeInChart>5</placeInChart>
+        <singer>FACE</singer>
+        <songName>Рэйман</songName>
+        <date>15 декабря 2020 года</date>
+        <place>Москва</place>
+    </list>
+    <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="live">
+        <duration>180</duration>
+        <placeInChart>1000</placeInChart>
+        <singer>Обстоятельства</singer>
+        <songName>В моих глазах</songName>
+        <date>20 сентября 2019 года</date>
+        <place>Москва</place>
+    </list>
+    <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="live">
+        <duration>186</duration>
+        <placeInChart>1000</placeInChart>
+        <singer>Екатерина Яшникова</singer>
+        <songName>Дождь</songName>
+        <date>27 ноября 2020 года</date>
+        <place>Москва</place>
+    </list>
+</songsList>

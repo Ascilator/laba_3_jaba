@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<playlist>
+    <SongItem>
+        <name>Втюрилась</name>
+        <singer>Дора</singer>
+        <duration>123</duration>
+        <placeInChart>57</placeInChart>
+        <studio>Rhymes Music Inc</studio>
+    </SongItem>
+    <SongItem>
+        <name>Дора дура</name>
+        <singer>Дора</singer>
+        <duration>133</duration>
+        <placeInChart>1000</placeInChart>
+        <studio>Rhymes Music Inc</studio>
+    </SongItem>
+    <SongItem>
+        <name>Пошлю его на...</name>
+        <singer>Дора</singer>
+        <duration>183</duration>
+        <placeInChart>1000</placeInChart>
+        <studio>Rhymes Music Inc</studio>
+    </SongItem>
+    <SongItem>
+        <name>Ахегао</name>
+        <singer>МЭЙБИ БЭЙБИ</singer>
+        <duration>169</duration>
+        <placeInChart>1000</placeInChart>
+        <studio>Rhymes Music Inc</studio>
+    </SongItem>
+    <SongItem>
+        <name>Cristal МОЁТ</name>
+        <singer>MORGENSHTERN</singer>
+        <duration>137</duration>
+        <placeInChart>18</placeInChart>
+        <studio>Zhara Distribution</studio>
+    </SongItem>
+    <SongItem>
+        <name>Cadillac</name>
+        <singer>MORGENSHTERN</singer>
+        <duration>177</duration>
+        <placeInChart>54</placeInChart>
+        <studio>Zhara Distribution</studio>
+    </SongItem>
+    <SongItem>
+        <name>Тлеет</name>
+        <singer>SVNV</singer>
+        <duration>150</duration>
+        <placeInChart>63</placeInChart>
+        <studio>Atlantic Records</studio>
+    </SongItem>
+    <SongItem>
+        <name>Бла Бла</name>
+        <singer>МЭЙБИ БЭЙБИ</singer>
+        <duration>157</duration>
+        <placeInChart>1000</placeInChart>
+        <studio>Rhymes Music Inc</studio>
+    </SongItem>
+
+</playlist>
